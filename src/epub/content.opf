@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-04-16T16:07:20Z</dc:date>
+		<meta property="dcterms:modified">2024-04-16T16:07:20Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,14 +44,14 @@
 		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A body of a man is discovered after a chance recovery of a crate from the bottom of a Welsh bay. The local police realise that this is outside their jurisdiction, and are soon welcoming Inspector French into the investigation. While there’s little initially to go on, French’s approach to methodically breaking down the problem and questioning everyone about everything soon starts to throw up some leads, that show just how much care the murderer has put into covering their tracks.&lt;/p&gt;
-			&lt;p&gt;This is the fourth in &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts’&lt;/a&gt; classic &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; series. French is never happy until every last clue and tidbit of information has been slotted into its rightful place, and his process for doing so is so methodical that the original cover proudly announced that the reader could “listen in to Scotland Yard!”&lt;/p&gt;
+			&lt;p&gt;A body of a man is discovered after a chance recovery of a crate from the bottom of a Welsh bay. The local police realize that this is outside their jurisdiction, and soon welcome Inspector French into the investigation. While there’s little to go on initially, French’s approach to methodically breaking down the problem and questioning everyone about everything soon starts to throw up some leads that show just how much care the murderer has put into covering their tracks.&lt;/p&gt;
+			&lt;p&gt;This is the fourth in &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts’&lt;/a&gt; classic &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; series. French is never happy until every last clue and tidbit of information has been slotted into their rightful place, and his process for doing so is so methodical that the original cover proudly announced that the reader could “listen in to Scotland Yard!”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72771</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101865194</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">76863</meta>
+		<meta property="se:reading-ease.flesch">75.0</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sea_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/freeman-wills-crofts_the-sea-mystery</meta>
 		<dc:creator id="author">Freeman Wills Crofts</dc:creator>
@@ -75,6 +75,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
