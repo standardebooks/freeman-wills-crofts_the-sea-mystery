@@ -42,14 +42,14 @@
 		<meta id="collection-1" property="belongs-to-collection">Inspector French</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A body of a man is discovered after a chance recovery of a crate from the bottom of a Welsh bay. The local police realise that this is outside their jurisdiction, and are soon welcoming Inspector French into the investigation. While there’s little initially to go on, French’s approach to methodically breaking down the problem and questioning everyone about everything soon starts to throw up some leads, that show just how much care the murderer has put into covering their tracks.&lt;/p&gt;
+			&lt;p&gt;This is the fourth in &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts’&lt;/a&gt; classic &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; series. French is never happy until every last clue and tidbit of information has been slotted into its rightful place, and his process for doing so is so methodical that the original cover proudly announced that the reader could “listen in to Scotland Yard!”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72771</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101865194</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sea_Mystery</meta>
