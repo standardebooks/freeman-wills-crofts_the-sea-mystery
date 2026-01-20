@@ -51,7 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72771</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101865194</dc:source>
-		<meta property="se:word-count">76863</meta>
+		<meta property="se:word-count">75427</meta>
 		<meta property="se:reading-ease.flesch">75.0</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sea_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/freeman-wills-crofts_the-sea-mystery</meta>
