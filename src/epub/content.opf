@@ -44,7 +44,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Inspector French</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:abstract>The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.</dc:abstract>
+		<meta property="schema:abstract">The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.</meta>
 		<dc:description>
 			&lt;p&gt;A body of a man is discovered after a chance recovery of a crate from the bottom of a Welsh bay. The local police realize that this is outside their jurisdiction, and soon welcome Inspector French into the investigation. While there’s little to go on initially, French’s approach to methodically breaking down the problem and questioning everyone about everything soon starts to throw up some leads that show just how much care the murderer has put into covering their tracks.&lt;/p&gt;
 			&lt;p&gt;This is the fourth in &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts’&lt;/a&gt; classic &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; series. French is never happy until every last clue and tidbit of information has been slotted into their rightful place, and his process for doing so is so methodical that the original cover proudly announced that the reader could “listen in to Scotland Yard!”&lt;/p&gt;
